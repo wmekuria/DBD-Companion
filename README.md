@@ -1,5 +1,10 @@
 # DBD-Companion
 
+- Need Python 3.2 or higher 
+- All built in pyhton libraries used
+- Just run pythone file 
+
+
 ### Features
 - Show current survivors
 - Show killer in the pregame lobby 
